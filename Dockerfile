@@ -1,4 +1,4 @@
-ARG AZ_VERSION=2.0.31
+ARG AZ_VERSION=2.0.34
 FROM microsoft/azure-cli:${AZ_VERSION}
 
 LABEL maintainer="Radek Antoniuk <radek.antoniuk@gmail.com>"
